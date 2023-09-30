@@ -6,7 +6,7 @@ Web technology involves the use of hypertext markup language (HTML) and cascadin
 <h2>Web Technology can be classified into the following sections:</h2>
 
 <h3></ul><li>World Wide Web (WWW)</li></h3>
-The World Wide Web is based on several different technologies : Web browsers, Hypertext Markup Language (HTML) and Hypertext Transfer Protocol (HTTP).
+The World Wide Web is based on several different technologies :- Web browsers, Hypertext Markup Language (HTML) and Hypertext Transfer Protocol (HTTP).
 
 <h3><li>Web Browser</li></h3>
 The web browser is an application software to explore www (World Wide Web). It provides an interface between the server and the client and requests to the server for web documents and services.
